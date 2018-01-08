@@ -6,3 +6,5 @@ git is a free software distributed under the GPl.
 it's the first day using Git for GPL.
 
 Git has a mutable index called stage.
+
+git add 1
