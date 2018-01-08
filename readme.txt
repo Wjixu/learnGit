@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 git add 1
 
 git add 2
+
+3
+
